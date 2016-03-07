@@ -1,0 +1,1710 @@
+===Loading the data set
+Experiment 1
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5472695248204044 Hamming Loss: 0.18703712677096312 Example-Based F Measure: 0.7604465973032543 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5483895888135126 Hamming Loss: 0.18564066177488578 Example-Based F Measure: 0.7586485278064201 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5469078560770383 Hamming Loss: 0.18580333656375467 Example-Based F Measure: 0.7566481565032119 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5433065977510119 Hamming Loss: 0.18913424708108356 Example-Based F Measure: 0.7572340236726635 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5389441290937904 Hamming Loss: 0.1882743781438922 Example-Based F Measure: 0.7574534013011813 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5476263830928101 Hamming Loss: 0.18671731505837835 Example-Based F Measure: 0.7617882069782259 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5431015890596401 Hamming Loss: 0.18827287830541323 Example-Based F Measure: 0.7570303652908947 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5446805267125081 Hamming Loss: 0.18838052055932436 Example-Based F Measure: 0.7569703953129846 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5419750180749769 Hamming Loss: 0.18832698786284555 Example-Based F Measure: 0.7566517097795649 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5426339163474706 Hamming Loss: 0.18934837786699893 Example-Based F Measure: 0.7562562127683653 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5381544602888925 Hamming Loss: 0.1892383127970834 Example-Based F Measure: 0.7565266469754224 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5433180009185827 Hamming Loss: 0.18875686464534588 Example-Based F Measure: 0.7580443065401224 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5403934960850373 Hamming Loss: 0.19047567954220312 Example-Based F Measure: 0.7550691795965967 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.54470701616749 Hamming Loss: 0.1892400433799437 Example-Based F Measure: 0.757248698824633 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5411169874013572 Hamming Loss: 0.1894540587936684 Example-Based F Measure: 0.7551135843719932 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5450924515821377 Hamming Loss: 0.18821911486455306 Example-Based F Measure: 0.7559959969582735 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5389406679280697 Hamming Loss: 0.19009829710646547 Example-Based F Measure: 0.7533207427451104 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5414839830435847 Hamming Loss: 0.18977756241635516 Example-Based F Measure: 0.756990966867451 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5391185872290681 Hamming Loss: 0.19203320411647978 Example-Based F Measure: 0.7550586154457944 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5450864983770982 Hamming Loss: 0.18886312243296877 Example-Based F Measure: 0.7570070799789184 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5373468241881647 Hamming Loss: 0.19235232359592042 Example-Based F Measure: 0.7520818862125986 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5412748011752584 Hamming Loss: 0.1919790945590475 Example-Based F Measure: 0.7561344262277276 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.539206854646423 Hamming Loss: 0.19090347962527116 Example-Based F Measure: 0.7558327729675851 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5425645589815606 Hamming Loss: 0.18972368360330427 Example-Based F Measure: 0.7556559310266424 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.29
+0.1930;0.3227;0.6990;0.6890;0.7375;0.5597;0.6150;0.5907;0.6026;0.4723;0.4048;0.4154;0.7879;2.5006;0.2535;0.4981;2.4345;0.1866;0.4452;0.7951;0.6915;
+Hamming Loss
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.5
+0.1814;0.3674;0.7357;0.6049;0.7690;0.5531;0.6874;0.4905;0.5725;0.5131;0.3054;NaN;0.7879;2.5006;0.2535;0.4981;2.4345;0.1866;0.4452;0.7951;0.6915;
+Example-Based F Measure
+Best p: 5
+Best strategy: B
+Best b: 3
+Best threshold: 0.9099999999999999
+0.1945;0.3008;0.8334;0.3923;0.8055;0.3890;0.8273;0.2711;0.4084;0.8023;0.1268;0.1798;0.7772;2.5763;0.2669;0.5101;2.5737;0.1975;0.4239;0.7821;0.6749;
+Experiment 2
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5376500113174628 Hamming Loss: 0.19499919239466518 Example-Based F Measure: 0.753528481332518 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5407020672499009 Hamming Loss: 0.1939231159721261 Example-Based F Measure: 0.7505898055181486 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5326703937378175 Hamming Loss: 0.19655279431445846 Example-Based F Measure: 0.7502919071688285 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5386938219840064 Hamming Loss: 0.1951068346485763 Example-Based F Measure: 0.7534107215079154 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5325968478119942 Hamming Loss: 0.19521078499238542 Example-Based F Measure: 0.7527442592946996 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5353732806796634 Hamming Loss: 0.1944600581475841 Example-Based F Measure: 0.7512037083541931 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5373993613874554 Hamming Loss: 0.1960736536065347 Example-Based F Measure: 0.753830775698044 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5392729442323796 Hamming Loss: 0.19435033919424063 Example-Based F Measure: 0.7530471170427567 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5347259416018938 Hamming Loss: 0.19585479256080113 Example-Based F Measure: 0.7512528121264558 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5366556568633272 Hamming Loss: 0.19553486547602567 Example-Based F Measure: 0.7521758678025354 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5303243079316736 Hamming Loss: 0.1956953481932715 Example-Based F Measure: 0.7512524765222175 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5327181776028519 Hamming Loss: 0.1958571000046149 Example-Based F Measure: 0.7491940582998879 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5373376141909996 Hamming Loss: 0.19521274631962712 Example-Based F Measure: 0.753413614445471 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5387318486580568 Hamming Loss: 0.19370806220868522 Example-Based F Measure: 0.7499698556414206 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5343041870216177 Hamming Loss: 0.19719714799944618 Example-Based F Measure: 0.7518627375093805 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.535423435717912 Hamming Loss: 0.19591109418985647 Example-Based F Measure: 0.7526047724373226 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5313992229408264 Hamming Loss: 0.1957492270063224 Example-Based F Measure: 0.750040771763484 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5317092093378959 Hamming Loss: 0.19746850339194238 Example-Based F Measure: 0.7507665779452306 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5363375504615989 Hamming Loss: 0.19601665974433524 Example-Based F Measure: 0.7523775869032512 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5364598120202441 Hamming Loss: 0.1947819465596013 Example-Based F Measure: 0.7508088805287769 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5340454742236553 Hamming Loss: 0.19746781115879827 Example-Based F Measure: 0.7496574676053631 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5369449443906044 Hamming Loss: 0.19596128109280536 Example-Based F Measure: 0.7525229137182942 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.532550325349578 Hamming Loss: 0.19531935022382205 Example-Based F Measure: 0.7495387267136443 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5318341739021515 Hamming Loss: 0.19735866906640825 Example-Based F Measure: 0.7509558787928007 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.26
+0.1890;0.3283;0.7097;0.7248;0.7318;0.5750;0.6127;0.6249;0.6188;0.4933;0.4422;0.4495;0.8065;2.3636;0.2235;0.4744;2.1981;0.1698;0.4679;0.8099;0.7143;
+Hamming Loss
+Best p: 3
+Best strategy: B
+Best b: 1
+Best threshold: 0.56
+0.1688;0.3898;0.7835;0.5920;0.7826;0.5587;0.7496;0.4689;0.5769;0.5817;0.2746;0.3335;0.8060;2.3833;0.2209;0.4701;2.2342;0.1732;0.4637;0.8069;0.7114;
+Example-Based F Measure
+Best p: 4
+Best strategy: A
+Best b: 1
+Best threshold: 0.95
+0.1917;0.2866;0.8734;0.3680;0.8124;0.3671;0.8722;0.2569;0.3969;0.6915;0.1159;NaN;0.8023;2.3962;0.2260;0.4830;2.2617;0.1741;0.4592;0.8035;0.7077;
+Experiment 3
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5386817112003326 Hamming Loss: 0.19101815958281415 Example-Based F Measure: 0.7575838992834317 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5446967205729496 Hamming Loss: 0.18940502561262634 Example-Based F Measure: 0.7557209311572995 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5396855723229809 Hamming Loss: 0.1898364022336056 Example-Based F Measure: 0.7569008781999609 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5434922700632242 Hamming Loss: 0.19042803082744936 Example-Based F Measure: 0.7576334939831506 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5365317888842742 Hamming Loss: 0.19117541187872075 Example-Based F Measure: 0.76012839386482 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5393001830572096 Hamming Loss: 0.19069465596012738 Example-Based F Measure: 0.7567701889466271 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5374349311832355 Hamming Loss: 0.19268424938852738 Example-Based F Measure: 0.7550794810045849 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5405408076932379 Hamming Loss: 0.19236120725460334 Example-Based F Measure: 0.7532656743622763 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5377131319923791 Hamming Loss: 0.19166424385066225 Example-Based F Measure: 0.7555161063816981 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5415808077811405 Hamming Loss: 0.1916636669897088 Example-Based F Measure: 0.7545844633791694 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5391218418236281 Hamming Loss: 0.1909098250957589 Example-Based F Measure: 0.7588545629512662 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5386120659533373 Hamming Loss: 0.19123298260187366 Example-Based F Measure: 0.756800918495558 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5364650202505669 Hamming Loss: 0.1932769163320873 Example-Based F Measure: 0.754146118529785 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5414159442169966 Hamming Loss: 0.1916088651991324 Example-Based F Measure: 0.7521226709182711 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.537359108579516 Hamming Loss: 0.1919338686602981 Example-Based F Measure: 0.7570523968495555 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.534291269731392 Hamming Loss: 0.1949400064608427 Example-Based F Measure: 0.7528119124240321 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5402642880217299 Hamming Loss: 0.1904286076884028 Example-Based F Measure: 0.7565679816623456 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5398727917213315 Hamming Loss: 0.19096393465319123 Example-Based F Measure: 0.7569734478448532 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5366777555823663 Hamming Loss: 0.1939211546448844 Example-Based F Measure: 0.7530092785401017 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5377662911027168 Hamming Loss: 0.1933837509806636 Example-Based F Measure: 0.7541677690539245 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5353954782891517 Hamming Loss: 0.19402879689879554 Example-Based F Measure: 0.7548488584720433 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5354643895492577 Hamming Loss: 0.19488751211408 Example-Based F Measure: 0.7535670140987207 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5359791187322688 Hamming Loss: 0.19359938160505794 Example-Based F Measure: 0.7549421568204023 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5378806062643806 Hamming Loss: 0.1923076745581245 Example-Based F Measure: 0.7545235188570644 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.26000000000000006
+0.1875;0.3335;0.7082;0.7129;0.7379;0.5743;0.6224;0.6147;0.6185;0.4908;0.4354;0.4496;0.8032;2.4242;0.2235;0.4835;2.2690;0.1744;0.4621;0.8050;0.7008;
+Hamming Loss
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.6
+0.1730;0.3812;0.7684;0.5881;0.7790;0.5526;0.7346;0.4707;0.5737;0.5810;0.2880;0.3507;0.8032;2.4242;0.2235;0.4835;2.2690;0.1744;0.4621;0.8050;0.7008;
+Example-Based F Measure
+Best p: 5
+Best strategy: A
+Best b: 3
+Best threshold: 0.95
+0.1948;0.2849;0.8896;0.3598;0.8236;0.3581;0.8863;0.2437;0.3823;0.8823;0.1137;0.1738;0.8021;2.4284;0.2260;0.4835;2.3133;0.1754;0.4519;0.7993;0.6965;
+Experiment 4
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5451435076222564 Hamming Loss: 0.18855600166135952 Example-Based F Measure: 0.7549049304710443 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5520501484455524 Hamming Loss: 0.18592816927407818 Example-Based F Measure: 0.7559451223535575 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5456565292968452 Hamming Loss: 0.18785523097512574 Example-Based F Measure: 0.7556693271974613 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5548364681605721 Hamming Loss: 0.18570757764548435 Example-Based F Measure: 0.7575311707663348 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5441026043349182 Hamming Loss: 0.18801721353085052 Example-Based F Measure: 0.7547962448362139 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.551084667805006 Hamming Loss: 0.1865136831418155 Example-Based F Measure: 0.7606696168213276 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5425907539627604 Hamming Loss: 0.1895238589690341 Example-Based F Measure: 0.7548497293890298 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5489608877285747 Hamming Loss: 0.18807420739304997 Example-Based F Measure: 0.7546143143748515 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5450650457423268 Hamming Loss: 0.18775151137569798 Example-Based F Measure: 0.7558386690959022 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.550959661487005 Hamming Loss: 0.18742777700862984 Example-Based F Measure: 0.7559114441923129 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5446501629494849 Hamming Loss: 0.18769647884074023 Example-Based F Measure: 0.7542776593785858 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5495526811398336 Hamming Loss: 0.18748269417139696 Example-Based F Measure: 0.7598674556348065 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5463905601374799 Hamming Loss: 0.18785823065208362 Example-Based F Measure: 0.7569000654698265 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5470942733639678 Hamming Loss: 0.18850489178088514 Example-Based F Measure: 0.753830479698233 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5479000898804308 Hamming Loss: 0.18662305597858692 Example-Based F Measure: 0.7564674315748358 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5508714050574776 Hamming Loss: 0.18753645761225715 Example-Based F Measure: 0.7564054412839297 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5483981747020654 Hamming Loss: 0.18689256541603214 Example-Based F Measure: 0.7576545456558599 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5485542040527507 Hamming Loss: 0.1878585767686557 Example-Based F Measure: 0.7604838647159344 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.546362363174076 Hamming Loss: 0.18882458812127925 Example-Based F Measure: 0.7568357486459489 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5496655305252844 Hamming Loss: 0.1870022843693756 Example-Based F Measure: 0.7538032384458185 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5445421745790016 Hamming Loss: 0.18877117079699107 Example-Based F Measure: 0.7531562561495043 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5489755432931402 Hamming Loss: 0.18834187087544418 Example-Based F Measure: 0.7571719466239457 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5480204922986319 Hamming Loss: 0.18710784992385435 Example-Based F Measure: 0.7552207462676429 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5466976039942956 Hamming Loss: 0.18898599381605058 Example-Based F Measure: 0.7569587677837025 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 2
+Best threshold: 0.32999999999999996
+0.1860;0.3489;0.7182;0.6565;0.7519;0.5611;0.6420;0.5503;0.5926;0.5161;0.3687;0.4057;0.7906;2.4869;0.2432;0.4933;2.4190;0.1868;0.4489;0.7944;0.6905;
+Hamming Loss
+Best p: 5
+Best strategy: B
+Best b: 2
+Best threshold: 0.45999999999999996
+0.1790;0.3687;0.7385;0.6185;0.7656;0.5587;0.6833;0.5068;0.5819;0.5597;0.3232;0.3764;0.7906;2.4869;0.2432;0.4933;2.4190;0.1868;0.4489;0.7944;0.6905;
+Example-Based F Measure
+Best p: 5
+Best strategy: B
+Best b: 3
+Best threshold: 0.95
+0.1917;0.3043;0.8450;0.3917;0.8076;0.3900;0.8381;0.2727;0.4115;0.7226;0.1233;0.2057;0.7818;2.5518;0.2540;0.5105;2.5462;0.1965;0.4341;0.7830;0.6755;
+Experiment 5
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5418296447195801 Hamming Loss: 0.19106730813604686 Example-Based F Measure: 0.7587910949787392 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5485770455489412 Hamming Loss: 0.18747104158013753 Example-Based F Measure: 0.7614135442785779 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5429772442088657 Hamming Loss: 0.18966911255710922 Example-Based F Measure: 0.7602374223433651 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5488571538449708 Hamming Loss: 0.18902741243250729 Example-Based F Measure: 0.7595384193881477 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5415657236912951 Hamming Loss: 0.18875755687849002 Example-Based F Measure: 0.7628423447409116 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5482324716678868 Hamming Loss: 0.18773720522405277 Example-Based F Measure: 0.7611757353863127 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5403338255880138 Hamming Loss: 0.19219587890534867 Example-Based F Measure: 0.7564555978983468 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5445044533665608 Hamming Loss: 0.1899927315519867 Example-Based F Measure: 0.7607076001043234 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5404849477748552 Hamming Loss: 0.19181953481932715 Example-Based F Measure: 0.7578582947951468 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5463778823818977 Hamming Loss: 0.19015517559647424 Example-Based F Measure: 0.7572404866415148 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5403349639269619 Hamming Loss: 0.1906376620979279 Example-Based F Measure: 0.7594243201705625 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5449847291170845 Hamming Loss: 0.18977560108911348 Example-Based F Measure: 0.7587849112601901 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5417965076288491 Hamming Loss: 0.19187375974895013 Example-Based F Measure: 0.7548037256450949 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5454130983696265 Hamming Loss: 0.1901535603858046 Example-Based F Measure: 0.755399878424175 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5416026889411912 Hamming Loss: 0.19225044995154367 Example-Based F Measure: 0.756421662274099 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5404956938703307 Hamming Loss: 0.1931618902579722 Example-Based F Measure: 0.7569748405578784 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5401248261176272 Hamming Loss: 0.19262367898841665 Example-Based F Measure: 0.7546146447970095 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.542408810919264 Hamming Loss: 0.19106511606442383 Example-Based F Measure: 0.7572629675903205 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5407231891510589 Hamming Loss: 0.1925717615026074 Example-Based F Measure: 0.754359507826058 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5406199035708246 Hamming Loss: 0.19251707508422172 Example-Based F Measure: 0.7559399747632037 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5400362851033629 Hamming Loss: 0.1924630808989801 Example-Based F Measure: 0.7551567111794972 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5412555318218482 Hamming Loss: 0.19246308089898012 Example-Based F Measure: 0.7543730813790195 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5427664218578663 Hamming Loss: 0.1916033273339794 Example-Based F Measure: 0.7548821795824007 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.541000708714886 Hamming Loss: 0.19181849646961097 Example-Based F Measure: 0.7564140065698227 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 2
+Best threshold: 0.25000000000000006
+0.1977;0.3232;0.6917;0.6886;0.7329;0.5562;0.6044;0.5920;0.5981;0.4774;0.4143;0.4280;0.7865;2.5135;0.2634;0.4959;2.4246;0.1879;0.4504;0.7940;0.6920;
+Hamming Loss
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.614
+0.1808;0.3593;0.7658;0.5362;0.7822;0.5109;0.7420;0.4178;0.5346;0.6083;0.2396;0.2979;0.7911;2.4701;0.2548;0.4916;2.3240;0.1812;0.4622;0.8033;0.7058;
+Example-Based F Measure
+Best p: 5
+Best strategy: A
+Best b: 3
+Best threshold: 0.95
+0.1975;0.2716;0.8734;0.3498;0.8108;0.3488;0.8711;0.2410;0.3775;0.8059;0.1112;0.1944;0.7924;2.4873;0.2450;0.5028;2.3636;0.1811;0.4491;0.7961;0.6970;
+Experiment 6
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5325451303046489 Hamming Loss: 0.19489085790760993 Example-Based F Measure: 0.754436058458241 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5355097802654224 Hamming Loss: 0.1950493792976141 Example-Based F Measure: 0.756174268351473 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5307705367993341 Hamming Loss: 0.19634085560016612 Example-Based F Measure: 0.7544192125361956 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5336183378053795 Hamming Loss: 0.19725252665097603 Example-Based F Measure: 0.7538718635602348 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5299061265929608 Hamming Loss: 0.19639531127417048 Example-Based F Measure: 0.7542980396472112 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5311934385088203 Hamming Loss: 0.19585456181641975 Example-Based F Measure: 0.7521089858212577 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5299831292893736 Hamming Loss: 0.19671616133647146 Example-Based F Measure: 0.7541163853355723 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5349139521238376 Hamming Loss: 0.19462077160921132 Example-Based F Measure: 0.7550979335094148 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5306504420403082 Hamming Loss: 0.19698532465734458 Example-Based F Measure: 0.7535281749089453 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5327138352133509 Hamming Loss: 0.1975742996908025 Example-Based F Measure: 0.7550006273279741 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5301943263252973 Hamming Loss: 0.19703897272601412 Example-Based F Measure: 0.7534115889297243 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5285592606510512 Hamming Loss: 0.1973605150214592 Example-Based F Measure: 0.7521605724725969 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.530022560207802 Hamming Loss: 0.19693167658867505 Example-Based F Measure: 0.7530122538638326 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5334420381101819 Hamming Loss: 0.19617898841663206 Example-Based F Measure: 0.754476862168589 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5291635450248219 Hamming Loss: 0.1983829433753288 Example-Based F Measure: 0.7521148922994652 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5320899990989985 Hamming Loss: 0.1969832479579122 Example-Based F Measure: 0.7538404331327073 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5287457636430366 Hamming Loss: 0.1983830587475195 Example-Based F Measure: 0.7533206554625191 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5276384367397802 Hamming Loss: 0.19870263971572294 Example-Based F Measure: 0.7515058314260622 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.526761957503478 Hamming Loss: 0.1985438875813374 Example-Based F Measure: 0.7507526975168239 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5332251383916901 Hamming Loss: 0.1970920439337302 Example-Based F Measure: 0.7525844214361801 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5303104368980047 Hamming Loss: 0.19854169550971432 Example-Based F Measure: 0.7524352918103332 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5306365710066392 Hamming Loss: 0.19795006691587058 Example-Based F Measure: 0.751218629151213 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5267987535408278 Hamming Loss: 0.1996686510683465 Example-Based F Measure: 0.7509886890074071 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5300684519689092 Hamming Loss: 0.19794868244958236 Example-Based F Measure: 0.7489659811743926 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.3
+0.1846;0.3438;0.7167;0.7146;0.7427;0.5807;0.6239;0.6178;0.6208;0.5066;0.4351;0.4491;0.8034;2.4121;0.2205;0.4770;2.2475;0.1735;0.4608;0.8094;0.7083;
+Hamming Loss
+Best p: 4
+Best strategy: B
+Best b: 1
+Best threshold: 0.61
+0.1721;0.3825;0.7950;0.5493;0.7888;0.5298;0.7714;0.4210;0.5448;0.6333;0.2361;0.2922;0.8030;2.4164;0.2209;0.4766;2.2639;0.1740;0.4545;0.8066;0.7028;
+Example-Based F Measure
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.95
+0.1878;0.3086;0.8920;0.3896;0.8218;0.3882;0.8889;0.2653;0.4087;0.8621;0.1222;0.1827;0.8034;2.4121;0.2205;0.4770;2.2475;0.1735;0.4608;0.8094;0.7083;
+Experiment 7
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5486510991124035 Hamming Loss: 0.18656387004476443 Example-Based F Measure: 0.7640189873149987 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5544257233836358 Hamming Loss: 0.1845762379436061 Example-Based F Measure: 0.7686882897764981 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5481796114264621 Hamming Loss: 0.1851132954912548 Example-Based F Measure: 0.7665361750225368 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5565977048625534 Hamming Loss: 0.18344732105773226 Example-Based F Measure: 0.7660445953943744 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5499651883643304 Hamming Loss: 0.18398345562785545 Example-Based F Measure: 0.7671771183689641 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5559273462857849 Hamming Loss: 0.1818908348331718 Example-Based F Measure: 0.7682483006931826 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5463355770477468 Hamming Loss: 0.1874773870506253 Example-Based F Measure: 0.7619533722015228 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5527029836347297 Hamming Loss: 0.18489916470533943 Example-Based F Measure: 0.7684209656292539 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5460042588820107 Hamming Loss: 0.18694067561954866 Example-Based F Measure: 0.7651175769825181 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5505761972886438 Hamming Loss: 0.1868337255987817 Example-Based F Measure: 0.7623720338617107 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.547565752259647 Hamming Loss: 0.1853295029766025 Example-Based F Measure: 0.7647329464693693 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5540017206938156 Hamming Loss: 0.18366525912594028 Example-Based F Measure: 0.7655395682240411 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5461146316111014 Hamming Loss: 0.18796114264617655 Example-Based F Measure: 0.763593492209423 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5504934677364417 Hamming Loss: 0.186240597166459 Example-Based F Measure: 0.7649234989595596 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5469661091442902 Hamming Loss: 0.18742385435414646 Example-Based F Measure: 0.7656181033826621 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5521774863805877 Hamming Loss: 0.1858677142461581 Example-Based F Measure: 0.7644124135926983 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5492430331678569 Hamming Loss: 0.18506045502792007 Example-Based F Measure: 0.7661398506472038 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5533507138791649 Hamming Loss: 0.18463230882828002 Example-Based F Measure: 0.7660799230623355 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5447600390287641 Hamming Loss: 0.18855254049563894 Example-Based F Measure: 0.7600013607078614 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5487648385118968 Hamming Loss: 0.18720868521851494 Example-Based F Measure: 0.7652444234234269 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5418873945443241 Hamming Loss: 0.18941264017721168 Example-Based F Measure: 0.7621288410861518 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.550168564264508 Hamming Loss: 0.18624082791084037 Example-Based F Measure: 0.7604746611068504 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5470743897909898 Hamming Loss: 0.18672585260048918 Example-Based F Measure: 0.7624792454640176 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5543266703146257 Hamming Loss: 0.1842555032534958 Example-Based F Measure: 0.7653471307625794 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 2
+Best threshold: 0.28
+0.1894;0.3365;0.7159;0.6966;0.7355;0.5685;0.6278;0.5970;0.6120;0.5205;0.4294;0.4529;0.7923;2.5492;0.2338;0.5024;2.4448;0.1868;0.4488;0.7912;0.6915;
+Hamming Loss
+Best p: 5
+Best strategy: B
+Best b: 3
+Best threshold: 0.5200000000000001
+0.1789;0.3679;0.7681;0.5717;0.7660;0.5386;0.7326;0.4487;0.5565;0.5314;0.2666;NaN;0.7893;2.5982;0.2372;0.5080;2.5174;0.1921;0.4387;0.7839;0.6795;
+Example-Based F Measure
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.95
+0.1959;0.2896;0.8768;0.3728;0.8103;0.3706;0.8726;0.2544;0.3939;0.8456;0.1222;0.1853;0.7976;2.5024;0.2286;0.5054;2.3184;0.1783;0.4630;0.8021;0.7052;
+Experiment 8
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5319332775151691 Hamming Loss: 0.19703828049287 Example-Based F Measure: 0.7460602268793856 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5403974539005691 Hamming Loss: 0.19413620840832527 Example-Based F Measure: 0.7474717207609913 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5312748978681421 Hamming Loss: 0.19617656560062763 Example-Based F Measure: 0.7482356564540462 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5424127753274925 Hamming Loss: 0.19375813373944345 Example-Based F Measure: 0.7507000451328947 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5278117894995927 Hamming Loss: 0.19601596751119107 Example-Based F Measure: 0.7463699950831437 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5379200789365545 Hamming Loss: 0.1959603581152799 Example-Based F Measure: 0.7489391574558318 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5293921555700599 Hamming Loss: 0.19827218607226915 Example-Based F Measure: 0.7443104357156406 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5367157888491133 Hamming Loss: 0.19564066177488576 Example-Based F Measure: 0.7453140266769637 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5307498247441489 Hamming Loss: 0.1981120494715954 Example-Based F Measure: 0.7447438116346 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5434291318077837 Hamming Loss: 0.19241543218422633 Example-Based F Measure: 0.750220971835273 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5327749297328422 Hamming Loss: 0.1959075176519452 Example-Based F Measure: 0.748127087181151 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5373438530795588 Hamming Loss: 0.19542364668420326 Example-Based F Measure: 0.7498878685309964 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5330417010036286 Hamming Loss: 0.19741473995108216 Example-Based F Measure: 0.7457522300957738 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5371523616138046 Hamming Loss: 0.19553267340440258 Example-Based F Measure: 0.7454883339461897 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5361146777599779 Hamming Loss: 0.19591017121233098 Example-Based F Measure: 0.7467252587845247 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.54311351964294 Hamming Loss: 0.19435276201024504 Example-Based F Measure: 0.7510871493068461 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5362867053877718 Hamming Loss: 0.1952105542480041 Example-Based F Measure: 0.7467108652456214 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5365143929554843 Hamming Loss: 0.1964464211546449 Example-Based F Measure: 0.7491942118753594 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5305744238532558 Hamming Loss: 0.19902556647745628 Example-Based F Measure: 0.7465695376611832 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.538622829629337 Hamming Loss: 0.19478090820988508 Example-Based F Measure: 0.7469274089052786 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5360678234651657 Hamming Loss: 0.1959632424200471 Example-Based F Measure: 0.7469030841714559 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5374115600737508 Hamming Loss: 0.19585571553832665 Example-Based F Measure: 0.7488285030247577 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5383888394436647 Hamming Loss: 0.19494116018274954 Example-Based F Measure: 0.7477367708346467 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.534113528433202 Hamming Loss: 0.1971989939544972 Example-Based F Measure: 0.7468344766758748 
+Example-Based Accuracy
+Best p: 4
+Best strategy: B
+Best b: 2
+Best threshold: 0.38
+0.1855;0.3567;0.7145;0.6659;0.7517;0.5655;0.6332;0.5613;0.5951;0.4939;0.3792;0.4110;0.7917;2.4306;0.2432;0.4899;2.3386;0.1825;0.4417;0.7971;0.6951;
+Hamming Loss
+Best p: 4
+Best strategy: B
+Best b: 2
+Best threshold: 0.56
+0.1771;0.3786;0.7474;0.5905;0.7752;0.5463;0.6990;0.4761;0.5664;0.5395;0.2904;0.3467;0.7917;2.4306;0.2432;0.4899;2.3386;0.1825;0.4417;0.7971;0.6951;
+Example-Based F Measure
+Best p: 3
+Best strategy: B
+Best b: 2
+Best threshold: 0.93
+0.1890;0.2991;0.8420;0.3865;0.8086;0.3836;0.8382;0.2749;0.4140;0.6809;0.1258;NaN;0.7893;2.4353;0.2488;0.4942;2.3597;0.1841;0.4376;0.7960;0.6934;
+Experiment 9
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5394098174042798 Hamming Loss: 0.19456608519082558 Example-Based F Measure: 0.7540628419421201 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.542237266755888 Hamming Loss: 0.19290449490054917 Example-Based F Measure: 0.752963730864605 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5324606119340998 Hamming Loss: 0.1969305228667682 Example-Based F Measure: 0.7517824834506315 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5370657929146095 Hamming Loss: 0.19649960773455166 Example-Based F Measure: 0.7502668769136867 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5324140631008971 Hamming Loss: 0.19553486547602567 Example-Based F Measure: 0.7510041928657638 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5381483224883479 Hamming Loss: 0.19558470626240249 Example-Based F Measure: 0.7543367856413631 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5368459858169123 Hamming Loss: 0.19574795791222485 Example-Based F Measure: 0.7514721337583683 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5394936391465538 Hamming Loss: 0.19483490239512669 Example-Based F Measure: 0.7528910355443101 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5345288507391515 Hamming Loss: 0.19660828833817895 Example-Based F Measure: 0.7479061049035906 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5352122232990297 Hamming Loss: 0.1978961881028197 Example-Based F Measure: 0.7487136064539338 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5285517405817839 Hamming Loss: 0.19789584198624763 Example-Based F Measure: 0.7474172990699434 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5353248111741815 Hamming Loss: 0.19639254234159395 Example-Based F Measure: 0.7508448949590273 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.536313197040319 Hamming Loss: 0.1966627440121833 Example-Based F Measure: 0.7510004093342793 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5420850523789749 Hamming Loss: 0.1947826387927454 Example-Based F Measure: 0.7532258205007356 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.538281062039473 Hamming Loss: 0.19650168443398403 Example-Based F Measure: 0.7498130507218229 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5332986601442926 Hamming Loss: 0.19956204716415155 Example-Based F Measure: 0.7480471848335222 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5312288215115298 Hamming Loss: 0.1990244127555494 Example-Based F Measure: 0.7472123418145337 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5345867060470414 Hamming Loss: 0.19773570538557386 Example-Based F Measure: 0.7520518759657489 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5370153368098823 Hamming Loss: 0.19639438829664496 Example-Based F Measure: 0.7502986786303536 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5377157383051059 Hamming Loss: 0.19617910378882275 Example-Based F Measure: 0.7509235864861967 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5340117525804916 Hamming Loss: 0.19806013198578615 Example-Based F Measure: 0.7491796203201677 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5324587813620074 Hamming Loss: 0.19972483732521112 Example-Based F Measure: 0.7468273943856489 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5318278185426188 Hamming Loss: 0.19832779546818036 Example-Based F Measure: 0.7499460600832972 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5336639746488843 Hamming Loss: 0.19859580506714664 Example-Based F Measure: 0.7501371716386782 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.37
+0.1836;0.3502;0.7165;0.6561;0.7530;0.5619;0.6417;0.5555;0.5955;0.5128;0.3634;0.3949;0.7885;2.4121;0.2501;0.4946;2.2810;0.1797;0.4517;0.8008;0.6991;
+Hamming Loss
+Best p: 5
+Best strategy: B
+Best b: 1
+Best threshold: 0.592
+0.1750;0.3730;0.7481;0.5855;0.7782;0.5436;0.7107;0.4736;0.5684;0.5941;0.2831;0.3852;0.7885;2.4121;0.2501;0.4946;2.2810;0.1797;0.4517;0.8008;0.6991;
+Example-Based F Measure
+Best p: 5
+Best strategy: B
+Best b: 3
+Best threshold: 0.95
+0.1880;0.3073;0.8422;0.3954;0.8078;0.3940;0.8402;0.2809;0.4210;0.6575;0.1301;NaN;0.7789;2.4886;0.2570;0.5067;2.4581;0.1928;0.4273;0.7858;0.6758;
+Experiment 10
+Searching parameters
+p=5 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5421531527373977 Hamming Loss: 0.18565231436614518 Example-Based F Measure: 0.7622539350637696 
+p=5 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5436572061470304 Hamming Loss: 0.1857060778070054 Example-Based F Measure: 0.7635436230977387 
+p=5 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5425431261248791 Hamming Loss: 0.1850636854492593 Example-Based F Measure: 0.761949779960229 
+p=5 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5470109262958496 Hamming Loss: 0.1842032396511145 Example-Based F Measure: 0.7631362094710706 
+p=5 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5430351808266803 Hamming Loss: 0.18457808389865707 Example-Based F Measure: 0.766108247573924 
+p=5 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.542008091436307 Hamming Loss: 0.18533250265356038 Example-Based F Measure: 0.7636718525395021 
+p=4 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5419893396095807 Hamming Loss: 0.18586679126863262 Example-Based F Measure: 0.7605996849353485 
+p=4 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5433577307059241 Hamming Loss: 0.186995131293553 Example-Based F Measure: 0.7637962586360668 
+p=4 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5444719799406219 Hamming Loss: 0.18516925100373807 Example-Based F Measure: 0.7624311238806049 
+p=4 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5442332561987832 Hamming Loss: 0.18624348147122613 Example-Based F Measure: 0.7626595059834249 
+p=4 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5415879059178245 Hamming Loss: 0.18554397987908994 Example-Based F Measure: 0.7622654798549527 
+p=4 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5407548879351456 Hamming Loss: 0.18747980986662977 Example-Based F Measure: 0.7636344509551569 
+p=3 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5414708459968051 Hamming Loss: 0.18715619087175228 Example-Based F Measure: 0.7604159706305482 
+p=3 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5421542141615522 Hamming Loss: 0.18758572153768055 Example-Based F Measure: 0.7606417844610797 
+p=3 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.539798206347009 Hamming Loss: 0.18796148876274862 Example-Based F Measure: 0.7584922275555375 
+p=3 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5428688185228406 Hamming Loss: 0.18753080437491348 Example-Based F Measure: 0.7609936005669333 
+p=3 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5376778500776841 Hamming Loss: 0.1878546541141723 Example-Based F Measure: 0.7601158375332149 
+p=3 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5415172827541651 Hamming Loss: 0.1879625271124648 Example-Based F Measure: 0.7614997281738749 
+p=2 b=1 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.537623117510422 Hamming Loss: 0.18994981309705108 Example-Based F Measure: 0.7570592327220114 
+p=2 b=1 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5402889381143572 Hamming Loss: 0.18935829987539804 Example-Based F Measure: 0.7590887623897957 
+p=2 b=2 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5380739458827513 Hamming Loss: 0.18957416124417373 Example-Based F Measure: 0.7566622200472473 
+p=2 b=2 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.540404771793807 Hamming Loss: 0.18833690987124463 Example-Based F Measure: 0.7590784991422852 
+p=2 b=3 strategy=A Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5397463811589522 Hamming Loss: 0.18828383866352855 Example-Based F Measure: 0.7602485279801993 
+p=2 b=3 strategy=B Fold 1/5
+Fold 2/5
+Fold 3/5
+Fold 4/5
+Fold 5/5
+Example-Based Accuracy: 0.5397061239558818 Hamming Loss: 0.18909075176519452 Example-Based F Measure: 0.7605802540868687 
+Example-Based Accuracy
+Best p: 5
+Best strategy: B
+Best b: 2
+Best threshold: 0.26000000000000006
+0.1927;0.3356;0.7174;0.6895;0.7319;0.5648;0.6217;0.5837;0.6021;0.4882;0.4087;0.4308;0.7940;2.5449;0.2308;0.5006;2.4706;0.1873;0.4492;0.7913;0.6929;
+Hamming Loss
+Best p: 5
+Best strategy: B
+Best b: 2
+Best threshold: 0.62
+0.1788;0.3691;0.7920;0.5386;0.7784;0.5185;0.7646;0.4107;0.5343;0.6030;0.2329;0.2901;0.7940;2.5449;0.2308;0.5006;2.4706;0.1873;0.4492;0.7913;0.6929;
+Example-Based F Measure
+Best p: 5
+Best strategy: A
+Best b: 3
+Best threshold: 0.93
+0.1966;0.2789;0.8974;0.3585;0.8139;0.3567;0.8930;0.2423;0.3812;0.6268;0.1120;NaN;0.7974;2.5350;0.2252;0.5015;2.4220;0.1833;0.4556;0.7940;0.6974;
+Example-Based Accuracy
+Hamming Loss: 0.1889¡À0.0042
+Subset Accuracy: 0.3379¡À0.0111
+Example-Based Precision: 0.7108¡À0.0085
+Example-Based Recall: 0.6894¡À0.0229
+Example-Based F Measure: 0.7407¡À0.0082
+Example-Based Accuracy: 0.5668¡À0.0074
+Micro-averaged Precision: 0.6245¡À0.0116
+Micro-averaged Recall: 0.5888¡À0.0251
+Micro-averaged F-Measure: 0.6056¡À0.0104
+Macro-averaged Precision: 0.4972¡À0.0155
+Macro-averaged Recall: 0.4081¡À0.0274
+Macro-averaged F-Measure: 0.4287¡À0.0201
+Average Precision: 0.7945¡À0.0069
+Coverage: 2.4638¡À0.0603
+OneError: 0.2385¡À0.0137
+IsError: 0.4910¡À0.0092
+ErrorSetSize: 2.3528¡À0.0927
+Ranking Loss: 0.1815¡À0.0064
+Mean Average Precision: 0.4527¡À0.0078
+Micro-averaged AUC: 0.7988¡À0.0067
+Macro-averaged AUC: 0.6976¡À0.0077
+
+Hamming Loss
+Hamming Loss: 0.1765¡À0.0039
+Subset Accuracy: 0.3737¡À0.0086
+Example-Based Precision: 0.7642¡À0.0204
+Example-Based Recall: 0.5776¡À0.0265
+Example-Based F Measure: 0.7765¡À0.0072
+Example-Based Accuracy: 0.5411¡À0.0158
+Micro-averaged Precision: 0.7275¡À0.0296
+Micro-averaged Recall: 0.4585¡À0.0310
+Micro-averaged F-Measure: 0.5610¡À0.0166
+Macro-averaged Precision: 0.5745¡À0.0360
+Macro-averaged Recall: 0.2740¡À0.0289
+Macro-averaged F-Measure: NaN¡ÀNaN
+Average Precision: 0.7945¡À0.0065
+Coverage: 2.4667¡À0.0637
+OneError: 0.2378¡À0.0126
+IsError: 0.4906¡À0.0107
+ErrorSetSize: 2.3552¡À0.0933
+Ranking Loss: 0.1818¡À0.0061
+Mean Average Precision: 0.4518¡À0.0083
+Micro-averaged AUC: 0.7984¡À0.0071
+Macro-averaged AUC: 0.6969¡À0.0086
+
+Example-Based F Measure
+Hamming Loss: 0.1927¡À0.0034
+Subset Accuracy: 0.2932¡À0.0120
+Example-Based Precision: 0.8665¡À0.0226
+Example-Based Recall: 0.3764¡À0.0159
+Example-Based F Measure: 0.8122¡À0.0057
+Example-Based Accuracy: 0.3746¡À0.0156
+Micro-averaged Precision: 0.8628¡À0.0232
+Micro-averaged Recall: 0.2603¡À0.0140
+Micro-averaged F-Measure: 0.3995¡À0.0146
+Macro-averaged Precision: 0.7577¡À0.0878
+Macro-averaged Recall: 0.1203¡À0.0063
+Macro-averaged F-Measure: NaN¡ÀNaN
+Average Precision: 0.7922¡À0.0095
+Coverage: 2.4813¡À0.0586
+OneError: 0.2398¡À0.0156
+IsError: 0.4975¡À0.0116
+ErrorSetSize: 2.3864¡À0.1063
+Ranking Loss: 0.1837¡À0.0086
+Mean Average Precision: 0.4462¡À0.0137
+Micro-averaged AUC: 0.7951¡À0.0087
+Macro-averaged AUC: 0.6932¡À0.0126
+
